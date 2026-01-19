@@ -1,0 +1,5 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [SANCHITA BAISHNAB]
+description: [I’m a first-year Biomedical Engineering student passionate about the intersection of healthcare, technology, and data. I’m currently exploring medical devices, basic programming, and healthcare innovation through coursework and self-learning.]
